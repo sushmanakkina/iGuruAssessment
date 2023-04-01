@@ -1,0 +1,21 @@
+table, tr, th, td{
+    border:1px solid black;
+    border-collapse: collapse;
+    font-family: "Roboto";
+}
+.table-cell{
+    text-align: center;
+}
+.row1{
+    text-align: center;
+    font-family:"Roboto";
+}
+.student-info-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.table-width{
+    height:50px;
+}
